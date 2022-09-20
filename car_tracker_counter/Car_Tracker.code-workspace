@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\Car_Detection_System"
+		},
+		{
+			"path": "..\\object_tracking"
+		},
+		{
+			"path": "..\\Car-Detection-Basic-Open-CV"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
